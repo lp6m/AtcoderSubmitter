@@ -1,0 +1,33 @@
+userid: XXXXXXXX
+password: XXXXXXXXXXXXXXXXX
+#urlは最後のスラッシュを含めてください
+url: https://abc020.contest.atcoder.jp/
+language: 2001
+#言語対応表
+# 2001 C (GCC 4.9.2)
+# 2003 C++11 (GCC 4.9.2)
+# 3 Java (OpenJDK 1.7.0)
+# 2043 Csharp(Mono 3.2.1.0)
+# 2005 PHP (PHP 5.5.21)
+# 2006 D (DMD 2.066.1)
+# 7 Python (2.7.3)
+# 8 Perl (5.14.2)
+# 2009 Ruby (1.9.3p550)
+# 2010 Ruby (2.1.5p273)
+# 12 Pascal (fpc 2.4.4)
+# 2015 JavaScript (Node.js v0.10.36)
+# 17 Text (cat)
+# 2021 Python3 (3.4.2)
+# 2024 Scala (2.11.5)
+# 25 Bash (4.2.25)
+# 2026 Go (1.4.1)
+# 2027 C (Clang 3.4)
+# 2028 C++ (Clang++ 3.4)
+# 2029 C++11 (Clang++ 3.4)
+# 2037 C++14 (Clang++ 3.4)
+# 2033 Haskell (Haskell Platform 2014.2.0.0)
+# 2032 Scheme (Gauche 0.9.1)
+# 2035 Common Lisp (SBCL 1.0.55.0)
+# 2036 Clojure (1.1.0 + OpenJDK 1.7)
+# 2040 Java8 (OpenJDK 1.8.0)
+# 2041 OCaml (4.02.1)
