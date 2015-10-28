@@ -1,8 +1,10 @@
 ### AtcoderSubmitter
-#Atcoderに自動でコードを提出するスクリプト
-スクレイピングのためのライブラリMechanizeを利用しているので`gem install mechanize`でライブラリをインストールしてください  
+Atcoderに自動でコードを提出するスクリプト
 
-#使い方
+####使い方
+
+スクレイピングのためのライブラリMechanizeを利用しているので`gem install mechanize`でライブラリをインストールしてください  
+  
 config.ymlにユーザ名,パスワード,コンテストページのURL,使用言語の設定をする  
 main.rb,config.yml,および提出するコードは同じディレクトリにないといけません  
 `ruby main.rb 1 1.c` これで1問目に1.cのコードを提出します  
